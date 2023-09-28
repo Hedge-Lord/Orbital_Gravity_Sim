@@ -1,0 +1,27 @@
+﻿  PhysicsWindow.cpp
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\Particle.h(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\PhysicsWindow.cpp(23,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\PhysicsWindow.cpp(23,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\PhysicsWindow.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\PhysicsWindow.cpp(38,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\PhysicsWindow.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\2D Gravity Physics Simulator\Particle.h(19,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  2D Gravity Physics Simulator.vcxproj -> C:\Users\georg\Desktop\Shit\Projects\2D Gravity Physics Simulator\Debug\2D Gravity Physics Simulator.exe
